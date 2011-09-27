@@ -1,13 +1,12 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Gplad Credits =
+== The Gplad development team includes ==
 
-Add your content here.
+<li>Jonathan Ray Cardenas
+<li>Fabian Giraldo
 
+== Special Thanks ==
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+People that have some special impact over the project:
+  * Luis Gerardo medina (if he works xd)
