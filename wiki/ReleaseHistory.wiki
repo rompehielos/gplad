@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Release History of Each Version of Gplad with Changes
 
 = Release history (major changes only) =
 
