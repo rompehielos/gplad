@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Contributors to the project.
 
 = Gplad Credits =
 == The Gplad development team includes ==
