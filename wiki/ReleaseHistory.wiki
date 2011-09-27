@@ -1,4 +1,4 @@
-Release History of Each Version of Gplad with Changes
+#Release History of Each Version of Gplad with Changes
 
 = Release history (major changes only) =
 
